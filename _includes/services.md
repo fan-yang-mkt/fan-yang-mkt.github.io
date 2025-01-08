@@ -1,6 +1,5 @@
 
-<h4 style="margin: 20px 0 0;"></h4>
-## Services
+<h4 style="margin: 20px 0 0; font-size: 1.8rem; font-weight: bold;"> Services</h4>
 
 <h4 style="margin: 10px 0 0; font-size: 1.2rem; font-weight: bold;"> Journal Reviewers</h4>
 
