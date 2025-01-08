@@ -516,3 +516,11 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+.topnav {
+    background-color: #fff;
+    overflow: hidden;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
