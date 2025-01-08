@@ -16,7 +16,7 @@
 </ul>
 
 
-<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Working Papers</h4>
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> Working Papers</h4>
 <div class="title">
   <strong>
       Overcoming Endogeneity and Sparse Data Bias in Consumer-level Random Coefficient Discrete Choice Models Using Copulas
