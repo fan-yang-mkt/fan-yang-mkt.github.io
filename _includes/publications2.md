@@ -12,7 +12,7 @@
 </div>
 <ul>
   <li>Developed from first chapter of dissertation</li>
-  <li>Accepted at Journal of Marketing Research</li>
+  <li>Accepted at <em>Journal of Marketing Research</em></li>
 </ul>
 
 
