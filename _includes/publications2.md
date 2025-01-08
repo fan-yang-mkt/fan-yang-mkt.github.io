@@ -10,12 +10,12 @@
 <div class="author"> 
   <strong>Fan Yang</strong>, Yi Qian, Hui Xie
 </div>
-<ul>
+<div>
   "--"
     Developed from first chapter of dissertation
   "--"
   Accepted at <em>Journal of Marketing Research</em>
-</ul>
+</div>
 
 
 <h4 style="margin: 0; font-size: 1.2rem; font-weight: bold;"> Working Papers</h4>
