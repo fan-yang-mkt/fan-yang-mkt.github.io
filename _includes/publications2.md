@@ -21,7 +21,9 @@
   <strong>
       Overcoming Endogeneity and Sparse Data Bias in Consumer-level Random Coefficient Discrete Choice Models Using Copulas
   </strong>
-  <em>, with Xixi Hu, Yi Qian and Hui Xie</em>
+</div>
+<div class="author"> 
+  <strong>Fan Yang</strong>, Xixi Hu, Yi Qian, Hui Xie
 </div>
 <ul>
   <li>Ready for Submission</li>
