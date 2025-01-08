@@ -18,3 +18,5 @@ Please feel free to contact via fan.yang@neoma-bs.fr
 {% include_relative _includes/publications2.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/cv.md %}
