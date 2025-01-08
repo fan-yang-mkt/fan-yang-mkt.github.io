@@ -1,26 +1,16 @@
 ## Research
 
-<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Publication and Conditional Acceptance</h4>
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> Publication</h4>
 <div class="title">
-  <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</strong>
-  <em>, solo-authored</em>
+  <strong>
+    <a href="https://journals.sagepub.com/doi/10.1177/00222437241296453">
+    Addressing Endogeneity Using a Two-stage Copula Generated Regressor Approach
+  </strong>
+  <em> <strong>Fan Yang<strong>, Yi Qian and Hui Xie</em>
 </div>
 <ul>
   <li>Developed from first chapter of dissertation</li>
-  <li>Conditionally Accepted at Contemporary Accounting Research</li>
-</ul>
-
-<div class="title">
-  <strong>
-    <a href=" ">
-      Strategic Scientific Disclosure - Evidence from the Leahy-Smith America Invents Act
-    </a >
-  </strong>
-  <em>, with Kristen Valentine, and Jenny Li Zhang</em>
-</div>
-<ul>
-  <li>Developed from second chapter of dissertation</li>
-  <li>Conditionally Accepted at Journal of Accounting Research</li>
+  <li>Accepted at Journal of Marketing Research</li>
 </ul>
 
 
@@ -29,8 +19,8 @@
   <strong>
       Do Investor Preferences Affect Analyst Research? Evidence from Chinese Dual-Listed Shares
   </strong>
-  <em>, with Dawn Matsumoto, and Jenny Li Zhang</em>
+  <em>, with Xixi Hu, Yi Qian and Hui Xie</em>
 </div>
 <ul>
-  <li>Revise&Resubmit at Journal of Accounting Research</li>
+  <li>Ready for Submission</li>
 </ul>
