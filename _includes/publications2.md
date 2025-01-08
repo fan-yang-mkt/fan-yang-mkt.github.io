@@ -4,7 +4,7 @@
 <div class="title">
   <strong>
     <a href="https://journals.sagepub.com/doi/10.1177/00222437241296453">
-    Addressing Endogeneity Using a Two-stage Copula Generated Regressor Approach
+    Addressing Endogeneity Using a Two-stage Copula Generated Regressor Approach </a>
   </strong>
   <strong>Fan Yang</strong>, Yi Qian and Hui Xie
 </div>
