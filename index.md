@@ -15,6 +15,6 @@ Please feel free to contact via fan.yang@neoma-bs.fr
 - **Substantive:** Marketing Analytics, Causal Inference, Digital Marketing, Two-sided Markets.
 - **Methodology:** Statistical Models, Bayesian and Econometrics, Machine Learning, Structural Modeling.
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/publications2.md %}
 
 {% include_relative _includes/services.md %}
