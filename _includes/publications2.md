@@ -11,8 +11,10 @@
   <strong>Fan Yang</strong>, Yi Qian, Hui Xie
 </div>
 <ul>
-  <li>Developed from first chapter of dissertation</li>
-  <li>Accepted at <em>Journal of Marketing Research</em></li>
+  "--"
+    Developed from first chapter of dissertation
+  "--"
+  Accepted at <em>Journal of Marketing Research</em>
 </ul>
 
 
