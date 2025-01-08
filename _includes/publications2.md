@@ -19,7 +19,7 @@
 <h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Working Papers</h4>
 <div class="title">
   <strong>
-      Do Investor Preferences Affect Analyst Research? Evidence from Chinese Dual-Listed Shares
+      Overcoming Endogeneity and Sparse Data Bias in Consumer-level Random Coefficient Discrete Choice Models Using Copulas
   </strong>
   <em>, with Xixi Hu, Yi Qian and Hui Xie</em>
 </div>
