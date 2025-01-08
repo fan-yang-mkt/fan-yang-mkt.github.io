@@ -9,3 +9,12 @@ body {
   font-weight:400;
   margin:0
 }
+
+
+.topnav {
+    background-color: #041E40;
+    overflow: hidden;
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+}
