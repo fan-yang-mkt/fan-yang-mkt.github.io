@@ -6,7 +6,9 @@
     <a href="https://journals.sagepub.com/doi/10.1177/00222437241296453">
     Addressing Endogeneity Using a Two-stage Copula Generated Regressor Approach
   </strong>
-  <em>, <strong>Fan Yang</strong>, Yi Qian and Hui Xie</em>
+  <ul>
+    <strong>Fan Yang</strong>, Yi Qian and Hui Xie
+  </ul>  
 </div>
 <ul>
   <li>Developed from first chapter of dissertation</li>
