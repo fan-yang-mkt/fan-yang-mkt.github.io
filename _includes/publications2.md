@@ -25,6 +25,6 @@
 <div class="author"> 
   <strong>Fan Yang</strong>, Xixi Hu, Yi Qian, Hui Xie
 </div>
-<ul>
+<div>
   <li>Ready for Submission</li>
-</ul>
+</div>
