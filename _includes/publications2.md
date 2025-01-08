@@ -1,51 +1,36 @@
-<h2 id="publications" style="margin: 2px 0px -45px;">Publications</h2>
+## Research
 
-<div class="publications">
-<ol class="bibliography">
-
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% if link.journal_short %} 
-    <abbr class="badge">{{ link.journal_short }}</abbr>
-    {% endif %}
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.journal }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Publication and Conditional Acceptance</h4>
+<div class="title">
+  <strong>Can Investors Learn From Patent Documents? Evidence from Textual Analysis</strong>
+  <em>, solo-authored</em>
 </div>
-</li>
-<br>
+<ul>
+  <li>Developed from first chapter of dissertation</li>
+  <li>Conditionally Accepted at Contemporary Accounting Research</li>
+</ul>
 
-{% endfor %}
-
-</ol>
+<div class="title">
+  <strong>
+    <a href=" ">
+      Strategic Scientific Disclosure - Evidence from the Leahy-Smith America Invents Act
+    </a >
+  </strong>
+  <em>, with Kristen Valentine, and Jenny Li Zhang</em>
 </div>
+<ul>
+  <li>Developed from second chapter of dissertation</li>
+  <li>Conditionally Accepted at Journal of Accounting Research</li>
+</ul>
+
+
+<h4 style="margin: 0; font-size: 1.3rem; font-weight: bold;"> - Working Papers</h4>
+<div class="title">
+  <strong>
+      Do Investor Preferences Affect Analyst Research? Evidence from Chinese Dual-Listed Shares
+  </strong>
+  <em>, with Dawn Matsumoto, and Jenny Li Zhang</em>
+</div>
+<ul>
+  <li>Revise&Resubmit at Journal of Accounting Research</li>
+</ul>
