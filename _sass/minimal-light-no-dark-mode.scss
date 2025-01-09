@@ -517,10 +517,46 @@ footer {
   font-family: monospace;
 }
 
+/*
 .topnav {
     background-color: #fff;
     overflow: hidden;
     position: fixed;
     z-index: 999;
     width: 100%;
+}
+*/
+
+.topnav {width: 100%; /* Ensure it spans the full width */
+  position: fixed;
+  top: 0;
+  z-index: 999; // Ensure it stays above other content
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #ffffff; 
+
+  .logo {
+    img {
+      width: 90px;
+      margin-top: 5px;
+    }
+  }
+
+  .navbar {
+    display: flex;
+    gap: 20px; // Space between navigation links
+
+    a {
+      text-decoration: none;
+      color: #333;
+      font-size: 1rem;
+      font-weight: 500;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: #0056b3; // Change color on hover
+      }
+    }
+  }
 }
